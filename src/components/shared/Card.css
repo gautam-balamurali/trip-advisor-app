@@ -21,13 +21,13 @@
   justify-content: flex-end;
   align-items: flex-start;
   padding: 1rem;
-  background-color: #fff;
+  background-color: var(--secondary-color);
 }
 
 .card-title {
   display: flex;
   align-items: center;
-  color: #fff;
+  color: var(--primary-color);
   font-size: 1.125rem;
   margin-bottom: 1rem;
 }
