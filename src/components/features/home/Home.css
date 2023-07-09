@@ -1,0 +1,11 @@
+.continents-category h2 {
+  color: #646cff;
+}
+
+.continents {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 3.5rem;
+}

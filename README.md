@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# ✈️Trip Advisor App🌏
+
+- A trip advisor app.
+
+## Tech stack
+
+- React
+- Netlify
+
+## Preview
+
+- [View Live](https://trip-advisor-gautam-balamurali.netlify.app/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

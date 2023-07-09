@@ -1,0 +1,16 @@
+.description-section {
+  text-align: left;
+}
+
+.description-section h1 {
+  text-align: center;
+}
+
+.description-content span {
+  font-weight: bold;
+  color: #646cff;
+}
+
+.padding {
+  padding: 1rem;
+}
