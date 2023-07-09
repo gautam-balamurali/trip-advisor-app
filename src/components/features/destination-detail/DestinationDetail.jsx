@@ -27,25 +27,22 @@ const DestinationDetail = () => {
         <img src={image} alt={name} />
         <div className="description-content">
           <p>
-            <span className="bold purple-color">Description:</span>{" "}
-            {description}
+            <span>Description:</span> {description}
           </p>
           <p>
-            <span className="bold purple-color">Ratings:</span> {ratings}
+            <span>Ratings:</span> {ratings}
           </p>
           <p>
-            <span className="bold purple-color">Reviews:</span> {reviews}
+            <span>Reviews:</span> {reviews}
           </p>
           <p>
-            <span className="bold purple-color">Location:</span> {location}
+            <span>Location:</span> {location}
           </p>
           <p>
-            <span className="bold purple-color">Opening Hours:</span>{" "}
-            {openingHours}
+            <span>Opening Hours:</span> {openingHours}
           </p>
           <p>
-            <span className="bold purple-color">Ticket Price:</span>{" "}
-            {ticketPrice}
+            <span>Ticket Price:</span> {ticketPrice}
           </p>
           <p>
             <a href={website} target="_blank" rel="noreferrer">
